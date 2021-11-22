@@ -1,0 +1,116 @@
+.botoninicio{
+top: 0px;
+left: 0px;
+width: 200px;
+height: 100px;
+border: solid black 5px;
+background: #3EE9E7;
+font-size: 70px;
+}
+
+.pregunta{
+position: absolute;
+top: 170px;
+left: 10px;
+width: 500px;
+height: 200px;
+border: solid black 5px;
+background: #F6F493;
+font-size: 30px;
+}
+
+.signo{
+position: absolute;
+top: 140px;
+left: 500px;
+width: 256px;
+height: 256px;
+background: url(signo.png);
+}
+
+.signo2{
+position: absolute;
+top: 140px;
+left: 680px;
+width: 256px;
+height: 256px;
+background: url(signo.png);
+}
+
+.signo3{
+position: absolute;
+top: 140px;
+left: 860px;
+width: 256px;
+height: 256px;
+background: url(signo.png);
+}
+
+.signo4{
+position: absolute;
+top: 140px;
+left: 1040px;
+width: 256px;
+height: 256px;
+background: url(signo.png);
+}
+
+.poblacion{
+position: absolute;
+top: 450px;
+left: 600px;
+width: 600px;
+height: 280px;
+border: solid black 5px;
+background: #FF7800;
+font-size: 30px;
+}
+
+.fotopobla{
+position: absolute;
+top: 400px;
+left: 200px;
+width: 300px;
+height: 300px;
+background: url(poblacion.png);
+}
+
+.solupro{
+position: absolute;
+top: 860px;
+left: 140px;
+width: 500px;
+height: 210px;
+border: solid black 5px;
+background: #00FFC1;
+font-size: 30px;
+}
+
+.solucionfoto{
+position: absolute;
+top: 790px;
+left: 800px;
+width: 265px;
+height: 420px;
+background: url(solucion.png);
+}
+
+.proyecto{
+position: absolute;
+top: 1350px;
+left: 700px;
+width: 500px;
+height: 200px;
+border: solid black 5px;
+background: #8A30FE;
+font-size: 30px;
+}
+
+.fotopro{
+position: absolute;
+top: 1250px;
+left: 100px;
+width: 400px;
+height: 400px;
+background: url(proyecto.png);
+}

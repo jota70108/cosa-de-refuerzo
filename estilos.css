@@ -1,0 +1,141 @@
+.papa{
+position: absolute;
+top: 10px;
+left: 5px;
+font-size: 80px;
+color: #047E46;
+}
+
+.foto{
+	position: absolute;
+top: 200px;
+left: 480px;
+height: 300px;
+width: 300px;
+background: url(logo.png);
+}
+
+.foto2{
+	position: absolute;
+top: 90px;
+left: 80px;
+height: 300px;
+width: 300px;
+background: url(pagina.png);
+}
+
+.foto3{
+	position: absolute;
+top: 150px;
+left: 950px;
+height: 300px;
+width: 300px;
+background: url(busqueda.png);
+}
+
+.boton1{
+position: absolute;
+top: 550px;
+left: 100px;
+width: 200px;
+height: 100px;
+border: solid black 5px;
+background: #A82508;
+font-size: 40px;
+}
+
+.boton2{
+position: absolute;
+top: 550px;
+left: 360px;
+width: 220px;
+height: 100px;
+border: solid black 5px;
+background: #E1CD26;
+font-size: 40px;
+}
+
+.boton3{
+position: absolute;
+top: 550px;
+left: 640px;
+width: 200px;
+height: 100px;
+border: solid black 5px;
+background: #AD1EA2;
+font-size: 40px;
+}
+
+.boton4{
+position: absolute;
+top: 550px;
+left: 910px;
+width: 200px;
+height: 100px;
+border: solid black 5px;
+background: #6067EF;
+font-size: 40px;
+}
+
+.boton5{
+position: absolute;
+top: 700px;
+left: 40px;
+width: 200px;
+height: 100px;
+border: solid black 5px;
+background: #20ECB1;
+font-size: 40px;
+}
+
+.boton6{
+position: absolute;
+top: 700px;
+left: 275px;
+width: 200px;
+height: 100px;
+border: solid black 5px;
+background: #FB9501;
+font-size: 40px;
+}
+
+.boton7{
+position: absolute;
+top: 700px;
+left: 510px;
+width: 200px;
+height: 100px;
+border: solid black 5px;
+background: #F582D9;
+font-size: 40px;
+}
+
+.boton8{
+position: absolute;
+top: 700px;
+left: 745px;
+width: 200px;
+height: 100px;
+border: solid black 5px;
+background: #F92163;
+font-size: 40px;
+}
+
+.boton9{
+position: absolute;
+top: 700px;
+left: 980px;
+width: 200px;
+height: 100px;
+border: solid black 5px;
+background: #07EA11;
+font-size: 45px;
+}
+
+.creditos{
+position: absolute;
+top: 837px;
+left: 70px;
+color: black;
+font-size: 70px;
+}
